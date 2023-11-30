@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Tests" tests="11" skipped="0" failures="0" errors="0" timestamp="2023-11-30T17:05:32" hostname="EVGENII" time="0.095">
+  <properties/>
+  <testcase name="testNumberCorrectRecord()" classname="Tests" time="0.074"/>
+  <testcase name="testEmptyStringParsing()" classname="Tests" time="0.002"/>
+  <testcase name="testNumberMaximumRadix()" classname="Tests" time="0.001"/>
+  <testcase name="testPositiveCorrectResults()" classname="Tests" time="0.002"/>
+  <testcase name="testNumberMinimumRadix()" classname="Tests" time="0.001"/>
+  <testcase name="testWordStringParsing()" classname="Tests" time="0.001"/>
+  <testcase name="testCountingSystems()" classname="Tests" time="0.001"/>
+  <testcase name="testNumberParsingBorders()" classname="Tests" time="0.001"/>
+  <testcase name="testNegativeCorrectResults()" classname="Tests" time="0.0"/>
+  <testcase name="testZeroCorrectResults()" classname="Tests" time="0.001"/>
+  <testcase name="testNullStringParsing()" classname="Tests" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
